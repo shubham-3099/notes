@@ -1,2 +1,2 @@
-# Pages
-A collection of my notes.
+# English
+- [[100 idoms]]
